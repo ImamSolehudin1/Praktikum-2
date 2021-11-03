@@ -40,5 +40,3 @@ utnya kita jalankan programnya dengan cara klik F5/Fn+F5.
 ![Gambar](ScreenshotPy/ss9.png)
 
 10. Program Python untuk mencari luas dan keliling lingkaran telah selesai. semoga tutorial ini bermanfaat untuk teman-teman. Terima Kasih Selamat Belajar.
-
-![Gambar](ScreenshotPy/ss10.png)
