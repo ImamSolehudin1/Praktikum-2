@@ -56,8 +56,8 @@ utnya kita jalankan programnya dengan cara klik F5/Fn+F5.
 
 Berikut adalah contoh program secara keseluruhannya. 
 
-![Gambar](ScreenshotLab/lab5.png)
 ![Gambar](ScreenshotLab/lab6.png)
+![Gambar](ScreenshotLab/lab5.1.png)
 
 
  # Penjelasan penggunaan separator
