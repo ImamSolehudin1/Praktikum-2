@@ -2,8 +2,6 @@
 # Mencari Luas dan Keliling Lingkaran beserta Flow Chart 
 
 
-
-
 1. Pertama kita cari tahu rumus Luas dan keliling lingkaran. untuk rumus luas yaitu (L = phi * r * r) sedangkan rumus keliling yaitu (Kel = 2 * phi * r). setelah mengetahui rumusnya, kita lanjut untuk pembuatan program.
 2. Kita buka dulu aplikasi python nya. lalu pilih new file.
 
@@ -40,7 +38,9 @@ utnya kita jalankan programnya dengan cara klik F5/Fn+F5.
 ![Gambar](ScreenshotPy/ss9.png)
 
 10. Program Python untuk mencari luas dan keliling lingkaran telah selesai. semoga tutorial ini bermanfaat untuk teman-teman. Terima Kasih Selamat Belajar.
+ Berikut adalah FLOWCHART dari mencari Luas dan Keliling Lingkaran.
 
+ ![Gambar](ScreenshotLab/FlowchartLuas&KelilingLingkaran.png)
 # Latihan/Lab 1
 # Penjelasan mengenai Penggunaan END 
  
