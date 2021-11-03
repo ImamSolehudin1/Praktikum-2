@@ -40,7 +40,7 @@ utnya kita jalankan programnya dengan cara klik F5/Fn+F5.
 10. Program Python untuk mencari luas dan keliling lingkaran telah selesai. semoga tutorial ini bermanfaat untuk teman-teman. Terima Kasih Selamat Belajar.
  Berikut adalah FLOWCHART dari mencari Luas dan Keliling Lingkaran.
 
- ![Gambar](ScreenshotLab/FlowchartLuas&KelilingLingkaran.png)
+ ![Gambar](ScreenshotLab/Flowchart.png)
 # Latihan/Lab 1
 # Penjelasan mengenai Penggunaan END 
  
